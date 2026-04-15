@@ -1,0 +1,17 @@
+# ignore everything
+*
+
+# allow folders
+!*/
+
+# allow source files
+!*.cs
+!*.sln
+!*.csproj
+!*.manifest
+!.gitignore
+
+# ignore build junk
+bin/
+obj/
+.vs/
