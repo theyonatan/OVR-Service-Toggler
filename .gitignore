@@ -10,6 +10,7 @@
 !*.csproj
 !*.manifest
 !.gitignore
+!readme.md
 
 # ignore build junk
 bin/
